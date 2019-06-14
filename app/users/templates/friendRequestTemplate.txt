@@ -1,0 +1,5 @@
+{{user_name}} has requested to follow you
+Click on the link to respond to the request
+Url: {{url}}
+Regards:
+Team Social Media

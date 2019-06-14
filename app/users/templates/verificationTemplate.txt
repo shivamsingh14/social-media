@@ -1,0 +1,5 @@
+User Verification
+Click on the link to verify you signed up on Social Media
+Url: {{url}}
+Regards:
+Team Social Media
